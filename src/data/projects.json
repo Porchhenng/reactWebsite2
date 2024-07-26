@@ -1,25 +1,17 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Point of sale management system",
+    "imageSrc": "projects/javaproject.png",
+    "description": "Inventory management system",
+    "skills": ["MySQL", "Java"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Aduino Car",
+    "imageSrc": "projects/AduinoCar.png",
+    "description": "This is a final project for a robotic course at school",
+    "skills": ["C program"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
